@@ -24,6 +24,6 @@ class AppRoutes {
         signUpScreen: SignUpScreen.builder,
         uploadScreen: UploadScreen.builder,
         appNavigationScreen: AppNavigationScreen.builder,
-        initialRoute: LoginScreen.builder
+        initialRoute: SplashScreen.builder
       };
 }
